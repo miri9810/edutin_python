@@ -6,4 +6,4 @@ y = 9
 
 suma = x+y
 
-print(suma)
+print("El resultado de la suma es: ",suma)
